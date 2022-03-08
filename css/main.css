@@ -129,6 +129,10 @@ header{position:fixed; z-index:1000;}
     margin-right:20px;
     border:1px solid rgba(0, 0, 0, .1);
     background:#ffffff;
+    transition:0.3s;
+}
+.tech_menu > li:hover{
+    box-shadow:0px 0px 15px #ccc;
 }
 .tech_menu > li > a > div{
     padding:35px 25px;
@@ -183,9 +187,10 @@ header{position:fixed; z-index:1000;}
     width:100%;
     display:flex;
     text-align:center;
+    z-index:2000;
 }
 #product > .pro_box > .pro_slide > ul > li{
-    width:404px !important; height:596px;
+    width:404px !important; height:569px;
     border:1px solid rgba(150, 150, 150, 0.5);
 }
 #product > .pro_box > .pro_slide > ul > li > a > img{
@@ -218,7 +223,7 @@ header{position:fixed; z-index:1000;}
 }
 #product > .pro_box > .pro_slide > ul > li > a > div > span:hover{
     background-image:url(../images/background_img2.jpg);
-    background-size:100%;
+    background-size:100%;   
     color:#fff;
 }
 
