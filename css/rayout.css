@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+header{
+    width:100%; height:70px;
+    margin:0px auto;
+    background-color:#ffffff;
+}
+.h_inner{
+    width:1280px; heighT:70px;
+    background:#ffff;
+}
+#slide{
+    width:1920px; height:800px;
+    margin:0px auto;
+}
+.technology{
+    width:1280px; height:900px;
+    margin:0px auto;
+}
+.back_img{
+    width:100%; height:397px;
+}
+#product{
+    width:100%; height:900px;
+    margin:0px auto;
+}
+.smarthome{
+    width:100%; height:900px;
+    margin:0px auto;
+}
+.hire{
+    width:1280px; height:900px;
+    margin:0px auto;
+}
+.qna{
+    width:100%; height:800px;
+    background:rgb(97, 139, 11);
+}
+footer{
+    width:100%; height:190px;
+    background:#333;
+}
+.f_inner{
+    width:1280px; height:190px;
+    margin:0px auto;
+}
+
